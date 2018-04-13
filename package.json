@@ -1,0 +1,22 @@
+{
+  "name": "restful-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smithalex24/RESTful-Lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smithalex24/RESTful-Lab/issues"
+  },
+  "homepage": "https://github.com/smithalex24/RESTful-Lab#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
